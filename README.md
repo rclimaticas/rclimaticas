@@ -1,10 +1,10 @@
-# <Projeto Resiliências Climáticas>
+# Projeto Resiliências Climáticas
 
-Bem-vindo ao repositório da **<PRC>**!
+Bem-vindo ao repositório da **PRC**!
 
-## Sobre a Empresa
+## Sobre nós
 
-O **<Projeto Resiliências Climpaticas>** é uma iniciativa conjunta dos parceiros  COSPE e Gambá , com o generoso apoio da União Europeia. O seu principal objetivo é fortalecer o impacto político das Organizações da Sociedade Civil (OSCs) que compõem a rede "Convergência pelo Clima". Para alcançar esse fim, o projeto visa a ampliação da participação ativa da sociedade civil no Fórum Baiano de Mudanças Climáticas e Biodiversidade. Se desenrola em quatro territórios distintos: o Parque Estadual Morro do Chapéu, a Reserva Extrativista Marinha Baía do Iguape e a Serra da Jibóia, em conjunto com universidade de várias partes do Brasil: UFOB - Universidade Federal do Oeste da Bahia, UNIVASF – Universidade Federal do Vale do São Francisco, UFRB - Universidade Federal da Bahia e UNEB – Universidade do Estado da Bahia.
+O **Projeto Resiliências Climpaticas** é uma iniciativa conjunta dos parceiros  COSPE e Gambá , com o generoso apoio da União Europeia. O seu principal objetivo é fortalecer o impacto político das Organizações da Sociedade Civil (OSCs) que compõem a rede "Convergência pelo Clima". Para alcançar esse fim, o projeto visa a ampliação da participação ativa da sociedade civil no Fórum Baiano de Mudanças Climáticas e Biodiversidade. Se desenrola em quatro territórios distintos: o Parque Estadual Morro do Chapéu, a Reserva Extrativista Marinha Baía do Iguape e a Serra da Jibóia, em conjunto com universidade de várias partes do Brasil: UFOB - Universidade Federal do Oeste da Bahia, UNIVASF – Universidade Federal do Vale do São Francisco, UFRB - Universidade Federal da Bahia e UNEB – Universidade do Estado da Bahia.
 
 Nosso projeto irá funcionar como um porta voz para comunidades de várias regiões do páis através de tecnologias de pesquisas e mapeamento.
 
@@ -32,4 +32,4 @@ Certifique-se de ter todas as dependências instaladas antes de executar o proje
 4. Execute o projeto: `npm run dev`.
 
 Atenciosamente,  
-A equipe **<Projeto Resiliências Climáticas>**
+A equipe **Projeto Resiliências Climáticas**
