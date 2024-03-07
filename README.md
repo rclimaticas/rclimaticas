@@ -27,9 +27,9 @@ Estamos abertos a contribuições da comunidade! Se você deseja contribuir para
 Certifique-se de ter todas as dependências instaladas antes de executar o projeto. Siga estas instruções:
 
 1. Clone o repositório: `git clone https://github.com/seu-usuario/rclimaticas.git`.
-2. Navegue até o diretório do projeto: `cd rclimaticas`.
-3. Instale as dependências: `npm install`.
-4. Execute o projeto: `npm run dev`.
+2. Navegue até o diretório do projeto (escolha se quer o frontend ou o backend): `cd rclimaticas`.
+4. Instale as dependências: `npm install`.
+5. Execute o projeto: `npm run dev`.
 
 Atenciosamente,  
 A equipe **Projeto Resiliências Climáticas**
